@@ -1,5 +1,7 @@
 # ⏰ Scrumdinger App
 
+[Read in Portuguese](https://github.com/francisdiasbr/Scrumdinger-app/blob/main/README.pt.md)
+
 ## ✨ About
 
 Scrumdinger is an iOS app that helps teams manage their daily scrums. To help keep scrums short and focused, Scrumdinger uses visual and audio cues to indicate when and for how long each participant should speak. The app also displays a progress screen that shows the time remaining in the meeting and creates a transcript that users can refer to later.
